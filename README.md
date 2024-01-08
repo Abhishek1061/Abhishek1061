@@ -1,7 +1,14 @@
+<h1 align="center"> Hi, I'm Abhishek Kadam<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-# Hi there, I'm [Abhishek Kadam](https://www.linkedin.com/in/abhishek-kadam-21861717b/) 👋 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=10B4F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer+;Visualize;Develop;Diploy" alt="Typing SVG" /></a>
+</p>
+<hr/>
 
-I'm a Full-Stack Developer with a strong passion for both development and design. I love creating innovative solutions and beautiful user experiences.
+<h4 align="center"> I'm a Full-Stack Developer with a strong passion for both development and design. I love creating innovative solutions and beautiful user experiences </h4>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhishek1061&label=Profile%20views&color=0e75b6&style=plastic" alt="Abhishek1061" /> </p>
+
 
 ## My Skills 🚀
 
@@ -51,7 +58,29 @@ I'm a Full-Stack Developer with a strong passion for both development and design
 ## :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhishek1061&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek1061&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishek1061&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek1061&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Abhishek1061" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Abhishek1061"><img alt="Abhishek1061's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+<br/>
 
 
