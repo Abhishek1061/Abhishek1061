@@ -1,37 +1,47 @@
 <h1 align="center"> Hi, I'm Abhishek Kadam<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=10B4F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer+;Visualize;Develop;Diploy" alt="Typing SVG" /></a>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhishek1061&label=Profile%20views&color=0e75b6&style=plastic" alt="Abhishek1061" /> </p> 
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=10B4F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer+;Visualize;Develop;Deploy" alt="Typing SVG" /></a>
 </p>
-<hr/>
 
-<h4 align="center"> I'm a Full-Stack Developer with a strong passion for both development and design. I love creating innovative solutions and beautiful user experiences </h4>
+## 🚀 About Me
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhishek1061&label=Profile%20views&color=0e75b6&style=plastic" alt="Abhishek1061" /> </p>
+I'm Abhishek Kadam, a Full-Stack Java Developer with a strong passion for both development and design. I love creating innovative solutions and delivering beautiful user experiences. My expertise lies in Java, Python, HTML, CSS, JavaScript, and MySQL, which I use to build robust, scalable, and efficient applications.
 
+Currently, I'm honing my skills in Data Structures and Algorithms using Java, which is instrumental in writing optimized code and acing technical interviews. I'm also in the process of building a portfolio website to showcase my projects and skills.
 
-## My Skills 🚀
+In addition to my technical skills, I bring strong problem-solving abilities, a keen eye for detail, and a collaborative spirit to the table. I'm always eager to learn new technologies and methodologies to stay updated in this ever-evolving field.
 
-- **Programming Languages**: Proficient in Java and Python.
-- **Web Development**: Experienced in HTML, CSS, and JavaScript.
-- **Databases**: Knowledgeable in MySQL.
+I'm looking forward to collaborating on building new projects and making a difference with technology. Let's connect and create something amazing together!
 
-## About Me ✨
-- 🔭 I’m currently working on buiding _Portfolio_ website.
-- 🌱 I’m currently learning DSA in Java.
-- 👯 I’m looking to collaborate on bilding new projects.
--  📫 Reach me out on **abhishekkadam1061@gmail.com**
-<!-- -  📄 Know about my experiences -->
 
 ## Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/abhishek-kadam-21861717b/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/)
 
-## My Projects:
+## 💼 Projects
 
-- [Youtube Clone](https://abhishek1061.github.io/personalnest-website/) - By Using Html and CSS clone the youtube.
+- [**Youtube Clone**:](https://abhishek1061.github.io/personalnest-website/) - By Using Html and CSS clone the youtube.
+- **Arithmetic Calculator**: A robust calculator that performs basic arithmetic operations.
+- **Geometric Calculator**: Calculates geometric properties with precision.
+- **Guess The Number**: An exciting number guessing game.
+- **Guess The Number (OOP Edition)**: Experience the evolution of the guessing game with principles of Object-Oriented Programming (OOP).
+- **Rock Paper Scissors Game**: Relive the classic Rock, Paper, Scissors game in Java.
+- **Interactive Queue Manager**: Explore the dynamic world of queues!
+- **HashMap Search For Key Value**: Dive into the fascinating world of hash maps!
+  
+## 🛠️ Skills
 
-## Languages and Tools
+- **Programming Languages**: Proficient in Java and Python.
+- **Web Development**: Experienced in HTML, CSS, and JavaScript.
+- **Databases**: Knowledgeable in MySQL.
+  
+## 🛠️ Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -53,25 +63,22 @@
 </div>
 
 
-## :fire: My Stats :
+## :fire: My Stats
 
 <div align="center">
 	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abhishek1061&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
+
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishek1061&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishek1061&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek1061&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Abhishek1061" height="192px"/>
   <br/>
   <br>
-	  
-   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
 </details>
-<br/>
 
 
