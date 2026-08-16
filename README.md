@@ -8,7 +8,7 @@ Passionate about building clean, maintainable, and scalable web applications. I 
 
 - 🔭 I build scalable web applications using Java (Spring Boot) and Angular.
 - 🌱 Currently learning: advanced Angular patterns and scalable Spring Boot architectures.
-- 🎨 I enjoy bringing an artistic, user-centered approach to UI/UX while keeping codebases maintainable and well-tested.
+- 🎨 I enjoy bringing an artistic, user-centered approach keeping codebases maintainable and well-tested.
 - 📫 Email: abhishekkadam1061@gmail.com
 - 🌐 Portfolio: https://abhishek1061.github.io/Portfolio/
 - 📄 Resume: https://drive.google.com/file/d/1k-9IVPT7JgQVeOlXuneUMYtaq0HJB3py/view?usp=sharing
@@ -17,7 +17,6 @@ Passionate about building clean, maintainable, and scalable web applications. I 
 
 ## Current work
 
-> (left intentionally blank by request)
 
 ---
 
@@ -52,11 +51,6 @@ Passionate about building clean, maintainable, and scalable web applications. I 
 - **DSA-with-Abhishek** — Data Structures & Algorithms (Java)
   - Algorithm implementations and practice problems in Java. Repo: https://github.com/Abhishek1061/DSA-with-Abhishek
 
-- **Naukri_Automation_ABk** — Automation (Python)
-  - Automation scripts and tooling in Python. Repo: https://github.com/Abhishek1061/Naukri_Automation_ABk
-
-- ...and more (examples, training repos, collection of utility code). For a full list, see: https://github.com/Abhishek1061
-
 ---
 
 ## Per-repo Technologies (quick reference)
@@ -71,7 +65,6 @@ Passionate about building clean, maintainable, and scalable web applications. I 
 - Youtube_Clone — HTML, CSS (responsive)
 - Portfolio / PeronalPortfolio — HTML, CSS, JavaScript, GitHub Pages
 - DSA-with-Abhishek — Java
-- Naukri_Automation_ABk — Python
 - End_to_End_Flow_Architecture — Java, JavaScript, Dockerfile, front-end artifacts
 
 ---
