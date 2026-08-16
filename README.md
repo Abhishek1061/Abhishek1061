@@ -1,6 +1,6 @@
 # Abhishek Kadam — Full‑Stack Software Engineer 🎨💻
 
-Passionate about building clean, maintainable, and scalable web applications. I blend engineering rigor with a creative mindset to build thoughtful user experiences and robust backend systems. I enjoy solving problems end-to-end — from API design and data modeling to responsive frontends and cloud-native deployments.
+Passionate about building clean, maintainable, and scalable web applications. I blend engineering rigor with a creative mindset to build thoughtful user experiences and robust backend systems. I en[...]
 
 ---
 
@@ -37,7 +37,7 @@ Passionate about building clean, maintainable, and scalable web applications. I 
   - Collection of microservices patterns, Docker and Kubernetes examples used to learn production patterns. Repo: https://github.com/Abhishek1061/microservices
 
 - **Event Management & Resource Allocation** — Web applications (Spring Boot + Angular)
-  - End‑to‑end event planning with role-based access, resource allocation and JWT-based auth. Repo: https://github.com/Abhishek1061/Event_Management_And_Resource_Allocation_Application and https://github.com/Abhishek1061/EventManagementApplication
+  - End‑to‑end event planning with role-based access, resource allocation and JWT-based auth. Repo: https://github.com/Abhishek1061/Event_Management_And_Resource_Allocation_Application and htt[...]
 
 - **Pet Management System** — Full‑stack CRUD application (Spring Boot)
   - Simple REST API with H2 DB (runs on port 9191 by default). Repo: https://github.com/Abhishek1061/Pet_Management_System
@@ -50,6 +50,11 @@ Passionate about building clean, maintainable, and scalable web applications. I 
 
 - **DSA-with-Abhishek** — Data Structures & Algorithms (Java)
   - Algorithm implementations and practice problems in Java. Repo: https://github.com/Abhishek1061/DSA-with-Abhishek
+
+- **Naukri_Automation_ABk** — Automation (Python)
+  - Automation scripts and tooling in Python. Repo: https://github.com/Abhishek1061/Naukri_Automation_ABk
+
+- ...and more (examples, training repos, collection of utility code). For a full list, see: https://github.com/Abhishek1061
 
 ---
 
@@ -129,14 +134,14 @@ Passionate about building clean, maintainable, and scalable web applications. I 
 
 ## How I work
 
-I combine methodical engineering practices with a creative eye: starting from thoughtful API and data design, I iterate quickly with tests and CI, craft responsive frontends, and make sure the system is observable and deployable. I enjoy collaborating in Agile teams and contributing to design, implementation, testing and deployment.
+I combine methodical engineering practices with a creative eye: starting from thoughtful API and data design, I iterate quickly with tests and CI, craft responsive frontends, and make sure the sy[...]
 
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek1061&show_icons=true&locale=en&layout=compact" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek1061&layout=compact&theme=github_dark" alt="Top languages"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek1061&show_icons=true&locale=en" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek1061&show_icons=true&theme=github_dark&count_private=true" alt="GitHub stats"/>
 </p>
 
 ---
