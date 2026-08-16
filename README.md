@@ -50,12 +50,6 @@ Passionate about building clean, maintainable, and scalable web applications. I 
 
 - **DSA-with-Abhishek** — Data Structures & Algorithms (Java)
   - Algorithm implementations and practice problems in Java. Repo: https://github.com/Abhishek1061/DSA-with-Abhishek
-
-- **Naukri_Automation_ABk** — Automation (Python)
-  - Automation scripts and tooling in Python. Repo: https://github.com/Abhishek1061/Naukri_Automation_ABk
-
-- ...and more (examples, training repos, collection of utility code). For a full list, see: https://github.com/Abhishek1061
-
 ---
 
 ## Per-repo Technologies (quick reference)
